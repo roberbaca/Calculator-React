@@ -14,7 +14,7 @@
 <h3 align="center">Calculator ReactJS</h3>
 
   <p align="center">
-    Simple ReactJs calculator with hooks.
+    Simple calculator built in React using math.js library for calculations and hooks.
     <br />  
     <br />
     <br />
@@ -33,6 +33,8 @@ The features I implemented include:
 * support decimal values
 * reset functionality
 * clear all
+
+I used math.js library so that I could evaluate math expressions in strings easily.
 
 Here’s some screenshots which demonstrates the functionality of the app I created:
 
