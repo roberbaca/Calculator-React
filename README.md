@@ -14,7 +14,7 @@
 <h3 align="center">Calculator ReactJS</h3>
 
   <p align="center">
-    Simple calculator built in React using math.js library for calculations and hooks.
+    Simple calculator built in React with hooks using math.js library for calculations.
     <br />  
     <br />
     <br />
