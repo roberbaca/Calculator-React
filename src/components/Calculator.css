@@ -249,11 +249,12 @@ footer a:hover{
         -webkit-box-shadow: none;
         box-shadow: none;
         background-color: rgba(26,27,40);
-        padding: 0.5rem;       
+        padding: 0.5rem;   
+        margin-bottom: 0.5rem;    
     }
 
     .display {     
-        height: 6rem;               
+        height: 5rem;               
         padding: 1rem;
     }
     

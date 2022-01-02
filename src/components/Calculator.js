@@ -31,7 +31,7 @@ const Calculator = () => {
     const calculate = () => {
         try {           
             setResult(evaluate(value))
-            setValue("");
+            // setValue("");
         } catch (error) {
             setValue("ERROR");
         }
